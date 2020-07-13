@@ -18,7 +18,7 @@ class App extends React.Component{
 				q: input,
 				part: 'snippet',
 				maxResults:5,
-				key: 'AIzaSyCCp1rD7VbJAseF7kDmiYuwPDIQI6e93VI',
+				key: '******************************************'
 				type:'video'
 			}
 		});
